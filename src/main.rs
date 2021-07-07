@@ -1,6 +1,6 @@
 //
 // The purpose of this file is to receive a file containing a very large array of numbers in a line and break the
-// line containing th array into different line by adding end-of-line in different positions in the original line 
+// line containing the array into different lines by adding end-of-line in different positions in the original line 
 //
 
 use std::io::Write; 
